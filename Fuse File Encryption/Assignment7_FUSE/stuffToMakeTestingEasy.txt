@@ -1,0 +1,17 @@
+python3 encfs.py PhysicalSpace/ VirtualSpace/
+
+cat VirtualSpace/test3
+echo "yellow" > VirtualSpace/test3
+
+In getattr
+	it returns a file size, but this is wrong in our case because of the encryption
+	ret...
+	if not a dir #important, if directory, do no mess with it
+		read, decrypt, set length correctly
+
+Pull the decrypt from the open method and make a decrypt method, it is used in open and should be used in getattr.
+
+--
+can use strace if we throw this on out linux server and run this. Strace prints out all the system calls that are taking place
+
+When creating a new decrypt function, pass in self, must be first param. When call, use self.method. If path is in dict() return dict item
