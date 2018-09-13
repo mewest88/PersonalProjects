@@ -1,0 +1,230 @@
+# Xcode
+
+#
+
+# gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
+
+
+
+
+## Build generated
+
+build/
+
+DerivedData/
+
+
+
+
+## Various settings
+
+*.pbxuser
+
+!default.pbxuser
+
+*.mode1v3
+
+!default.mode1v3
+
+*.mode2v3
+
+!default.mode2v3
+
+*.perspectivev3
+
+!default.perspectivev3
+
+xcuserdata/
+
+
+
+
+## Other
+
+*.moved-aside
+
+*.xccheckout
+
+*.xcscmblueprint
+
+*.DS_Store
+
+# Xcode
+#
+# gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
+
+## User settings
+xcuserdata/
+
+## compatibility with Xcode 8 and earlier (ignoring not required starting Xcode 9)
+*.xcscmblueprint
+*.xccheckout
+
+## compatibility with Xcode 3 and earlier (ignoring not required starting Xcode 4)
+build/
+DerivedData/
+*.moved-aside
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+
+##Java ignore stuff
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# PyDev specific (Python IDE for Eclipse)
+*.pydevproject
+
+# CDT-specific (C/C++ Development Tooling)
+.cproject
+
+# Java annotation processor (APT)
+.factorypath
+
+# PDT-specific (PHP Development Tools)
+.buildpath
+
+# sbteclipse plugin
+.target
+
+# Tern plugin
+.tern-project
+
+# TeXlipse plugin
+.texlipse
+
+# STS (Spring Tool Suite)
+.springBeans
+
+# Code Recommenders
+.recommenders/
+
+# Scala IDE specific (Scala & Java development for Eclipse)
+.cache-main
+.scala_dependencies
+.worksheet
+
+##More Java ignore
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+
+*.tmp
+
+# Word temporary
+~$*.doc*
+
+# Excel temporary
+*.xls*
+
+# Excel
+*.xls
+*.xlsx
+
+# Excel Backup File
+*.xlk
+
+# PowerPoint temporary
+~$*.ppt*
+
+# PowerPoint
+~$*.ppt
+
+# Visio autosave temporary files
+*.~vsd*
+
+# PDF's
+*.pdf
+
+# ignoring .csv's to avoid pushing up datasets
+*.csv
+
+# Files associated to work with encryption and keys
+*.pem
+*.der
+*.cert
+*.csr
+SSLSecureConnection/SSLProjectClient/testCert.csr.txt
+SSLSecureConnection/SSLProjectServer/testCert.csr.txt
+
+##Random Homework related files to ignore
+Class2/ChatroomProject/Resources/login_old.css
+Class2/ChatroomProject/Resources/login_old.html
+Class2/ChatroomProject/Resources/login_old.js
+Class2/Java/HTTPWebServer/Resources/login_old.html
+Class2/Java/HTTPWebServer/Resources/login_old.js
+CS6012/CS6012-Fall2017/TestFiles/
+CS6012/CS6012-Fall2017/chart.png
+CS6012/CS6012-Fall2017/chart.png
+CS6012/CS6012-Fall2017/contains_experiment.tsv
+CS6012/CS6012-Fall2017/src/assignment03/assignment03.docx
+CS6012/CS6012-Fall2017/src/assignment04/SortUtilAnalysis.docx
+CS6012/CS6012-Fall2017/src/assignment04/assignment04.properties
+CS6012/CS6012-Fall2017/src/assignment05/BalancedSymbolCheckerTest.java
+CS6012/CS6012-Fall2017/src/assignment05/BigTooFail.java
+CS6012/CS6012-Fall2017/src/assignment05/DoublyLinkedList.java
+CS6012/CS6012-Fall2017/src/assignment05/DoublyLinkedListTest.java
+CS6012/CS6012-Fall2017/src/assignment05/List.java
+CS6012/CS6012-Fall2017/src/assignment05/StackMain.java
+CS6012/CS6012-Fall2017/src/assignment05/assignment05.properties
+CS6012/CS6012-Fall2017/src/lab05/Lab5_WriteUp.docx
+CS6013_sys1/Assignments/Assignment7_FUSE/fuse.pyc
+CS6013_sys1/Assignments/Assignment7_FUSE/hello
+CS6013_sys1/Assignments/Assignment7_FUSE/stuffToMakeTestingEasy.txt
+/Lab4/.vs/Lab4/v15
+/Lab4/Lab4/obj/Debug
+/CS6016_DBs/ChessTools/.vs/ChessTools
+/CS6016_DBs/ChessTools/ChessBrowser/ChessBrowser/obj/Debug
+/CS6016_DBs/ChessTools/ChessTester/obj/Debug
+/CS6016_DBs/ChessTools/ChessTools/obj/Debug
+/CS6016_DBs/Labs/Lab4/Lab4/obj/Debug
+/CS6016_DBs/Labs/Lab4/.vs/Lab4/v15
+/CS6016_DBs/ChessTools/ChessBrowser/Resources/obj/Debug
+/CS6016_DBs/ChessTools/ChessBrowser/.vs/ChessBrowser/v15
+/Lab5/.vs/Lab5
+/CS6017_DataAnalytics/d3_demo/
+/CS6017_DataAnalytics/homework4/homework4 (u0521629@utah.edu 2).xcodeproj/
+/CS6017_DataAnalytics/homework4/homework4 (u0521629@utah.edu).xcodeproj/
+
+##Jupyter
+*.ipynb_checkpoints

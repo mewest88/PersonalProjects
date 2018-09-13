@@ -1,0 +1,30 @@
+PING www.google.com (172.217.5.196): 56 data bytes
+64 bytes from 172.217.5.196: icmp_seq=0 ttl=48 time=28.791 ms
+64 bytes from 172.217.5.196: icmp_seq=1 ttl=48 time=30.316 ms
+64 bytes from 172.217.5.196: icmp_seq=2 ttl=48 time=30.310 ms
+64 bytes from 172.217.5.196: icmp_seq=3 ttl=48 time=31.007 ms
+64 bytes from 172.217.5.196: icmp_seq=4 ttl=48 time=30.440 ms
+64 bytes from 172.217.5.196: icmp_seq=5 ttl=48 time=116.187 ms
+64 bytes from 172.217.5.196: icmp_seq=6 ttl=48 time=30.339 ms
+64 bytes from 172.217.5.196: icmp_seq=7 ttl=48 time=30.404 ms
+64 bytes from 172.217.5.196: icmp_seq=8 ttl=48 time=30.414 ms
+64 bytes from 172.217.5.196: icmp_seq=9 ttl=48 time=30.360 ms
+64 bytes from 172.217.5.196: icmp_seq=10 ttl=48 time=30.491 ms
+64 bytes from 172.217.5.196: icmp_seq=11 ttl=48 time=30.345 ms
+64 bytes from 172.217.5.196: icmp_seq=12 ttl=48 time=30.331 ms
+64 bytes from 172.217.5.196: icmp_seq=13 ttl=48 time=30.374 ms
+64 bytes from 172.217.5.196: icmp_seq=14 ttl=48 time=30.429 ms
+64 bytes from 172.217.5.196: icmp_seq=15 ttl=48 time=30.365 ms
+64 bytes from 172.217.5.196: icmp_seq=16 ttl=48 time=30.451 ms
+64 bytes from 172.217.5.196: icmp_seq=17 ttl=48 time=30.367 ms
+64 bytes from 172.217.5.196: icmp_seq=18 ttl=48 time=30.450 ms
+64 bytes from 172.217.5.196: icmp_seq=19 ttl=48 time=30.402 ms
+64 bytes from 172.217.5.196: icmp_seq=20 ttl=48 time=30.888 ms
+64 bytes from 172.217.5.196: icmp_seq=21 ttl=48 time=30.442 ms
+64 bytes from 172.217.5.196: icmp_seq=22 ttl=48 time=30.543 ms
+64 bytes from 172.217.5.196: icmp_seq=23 ttl=48 time=30.097 ms
+64 bytes from 172.217.5.196: icmp_seq=24 ttl=48 time=30.352 ms
+
+--- www.google.com ping statistics ---
+25 packets transmitted, 25 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 28.791/33.796/116.187/16.822 ms

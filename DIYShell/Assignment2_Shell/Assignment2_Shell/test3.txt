@@ -1,0 +1,31 @@
+dfdf
+www.google.com (172.217.11.68): 56 data bytes
+64 bytes from 172.217.11.68: icmp_seq=0 ttl=50 time=16.285 ms
+64 bytes from 172.217.11.68: icmp_seq=1 ttl=50 time=16.415 ms
+64 bytes from 172.217.11.68: icmp_seq=2 ttl=50 time=16.470 ms
+64 bytes from 172.217.11.68: icmp_seq=3 ttl=50 time=16.546 ms
+64 bytes from 172.217.11.68: icmp_seq=4 ttl=50 time=16.850 ms
+64 bytes from 172.217.11.68: icmp_seq=5 ttl=50 time=16.520 ms
+64 bytes from 172.217.11.68: icmp_seq=6 ttl=50 time=16.728 ms
+64 bytes from 172.217.11.68: icmp_seq=7 ttl=50 time=16.654 ms
+64 bytes from 172.217.11.68: icmp_seq=8 ttl=50 time=16.460 ms
+64 bytes from 172.217.11.68: icmp_seq=9 ttl=50 time=16.483 ms
+64 bytes from 172.217.11.68: icmp_seq=10 ttl=50 time=16.342 ms
+64 bytes from 172.217.11.68: icmp_seq=11 ttl=50 time=14.980 ms
+64 bytes from 172.217.11.68: icmp_seq=12 ttl=50 time=16.351 ms
+64 bytes from 172.217.11.68: icmp_seq=13 ttl=50 time=17.153 ms
+64 bytes from 172.217.11.68: icmp_seq=14 ttl=50 time=16.259 ms
+64 bytes from 172.217.11.68: icmp_seq=15 ttl=50 time=16.323 ms
+64 bytes from 172.217.11.68: icmp_seq=16 ttl=50 time=16.843 ms
+64 bytes from 172.217.11.68: icmp_seq=17 ttl=50 time=16.490 ms
+64 bytes from 172.217.11.68: icmp_seq=18 ttl=50 time=16.464 ms
+64 bytes from 172.217.11.68: icmp_seq=19 ttl=50 time=16.301 ms
+64 bytes from 172.217.11.68: icmp_seq=20 ttl=50 time=16.487 ms
+Request timeout for icmp_seq 21
+64 bytes from 172.217.11.68: icmp_seq=22 ttl=50 time=16.340 ms
+64 bytes from 172.217.11.68: icmp_seq=23 ttl=50 time=16.583 ms
+64 bytes from 172.217.11.68: icmp_seq=24 ttl=50 time=16.162 ms
+
+--- www.google.com ping statistics ---
+25 packets transmitted, 24 packets received, 4.0% packet loss
+round-trip min/avg/max/stddev = 14.980/16.437/17.153/0.373 ms
